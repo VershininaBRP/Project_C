@@ -18,7 +18,6 @@ Python, PyTorch, OpenCV, Torchvision, scikit-learn, tqdm, Telegram Bot.
 Общий объём: 3900 видео: 1950 с насилием / 1950 без насилия.
 Большинство видео короткие (до 3-6 секунд), что удобно для подачи в модель.
 
-
 ## Структура модели
 ![image](https://github.com/user-attachments/assets/58b8d111-e7e0-48c5-be89-081fa3f61d93)
 
@@ -30,9 +29,9 @@ Python, PyTorch, OpenCV, Torchvision, scikit-learn, tqdm, Telegram Bot.
 
 ## Ссылки
 1. Модель
-   
+   https://disk.yandex.ru/d/_WjSUfl5Lxyadg
 2. Датасет
-   
+   https://disk.yandex.ru/d/Bp8vxqLuTBOwyA
 3. Тетрадка-обучение
    https://github.com/VershininaBRP/Project_C/blob/main/Project/learn.ipynb
 4. Тетрадка-телеграм бот
