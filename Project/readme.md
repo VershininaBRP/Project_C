@@ -27,3 +27,13 @@ Python, PyTorch, OpenCV, Torchvision, scikit-learn, tqdm, Telegram Bot.
 ![image](https://github.com/user-attachments/assets/ecb91ae3-d37f-427d-bb67-e343d099014e)
 
 ## Демонстрация работы модели
+
+## Ссылки
+1. Модель
+   
+2. Датасет
+   
+3. Тетрадка-обучение
+   https://github.com/VershininaBRP/Project_C/blob/main/Project/learn.ipynb
+4. Тетрадка-телеграм бот
+   https://github.com/VershininaBRP/Project_C/blob/main/Project/telegrambot.ipynb
