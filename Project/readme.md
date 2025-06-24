@@ -37,5 +37,7 @@ https://disk.yandex.ru/i/9KWp8GCyyyK8Mg
    https://github.com/VershininaBRP/Project_C/blob/main/Project/learn.ipynb
 4. Тетрадка-телеграм бот
    https://github.com/VershininaBRP/Project_C/blob/main/Project/telegrambot.ipynb
-5. Датасет 20 видео для просмотра работы модели
+5. Презентация
+   https://disk.yandex.ru/d/QYhs45jN0Wopzg
+6. Датасет 20 видео для просмотра работы модели
    https://disk.yandex.ru/d/Wue_c07STELB3Q
