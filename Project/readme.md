@@ -26,7 +26,7 @@ Python, PyTorch, OpenCV, Torchvision, scikit-learn, tqdm, Telegram Bot.
 Модель сбалансирована, одинаково хорошо распознаёт оба класса.
 ![image](https://github.com/user-attachments/assets/ecb91ae3-d37f-427d-bb67-e343d099014e)
 
-## Демонстрация работы модели
+## Демонстрация работы модели (запись экрана телеграм-бота):
 https://disk.yandex.ru/i/9KWp8GCyyyK8Mg
 ## Ссылки
 1. Модель
